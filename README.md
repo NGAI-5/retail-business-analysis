@@ -45,14 +45,15 @@ I built a Python script that automates the entire analysis. Running the script p
 
 ## Key Findings
 
-| Metric                 Value 
-| **Total Revenue**     $1,831,758.88
-| **Average Order Value**  $3,641.67 
-| **Total Customers**    371 
-| **Total Transactions**   504 
-| **Top Product Category** Clothing 
-| **Top Shopping Mall**    Metrocity 
 
+| Metric | Value |
+| :--- | :--- |
+| **Total Revenue** | $1,831,758.88 |
+| **Average Order Value** | $3,641.67 |
+| **Total Customers** | 371 |
+| **Total Transactions** | 504 |
+| **Top Product Category** | Clothing |
+| **Top Shopping Mall** | Metrocity |
 
 ## Recommendations
 
