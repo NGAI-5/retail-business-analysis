@@ -40,7 +40,7 @@ I built a Python script that automates the entire analysis. Running the script p
   - Revenue by shopping mall
   - Summary metrics
 - A PDF report (`retail_summary.pdf`) with key metrics and charts
-- PNG charts saved in a `charts/` folder
+- PNG charts 
 
 
 ## Key Findings
@@ -67,7 +67,7 @@ I built a Python script that automates the entire analysis. Running the script p
 | `retail_analysis.py` | Main Python script |
 | `retail_report.xlsx` | Excel report with data and summaries |
 | `retail_summary.pdf` | One‑page PDF summary for management |
-| `charts/` | Folder containing all visualizations (PNG) |
+| `charts` | All visualizations (PNG) |
 | `shopping_trends.csv` | Original dataset |
 
 
