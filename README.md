@@ -62,12 +62,13 @@ I built a Python script that automates the entire analysis. Running the script p
 3. **Target the 25–35 age group** – they represent the largest customer segment. Consider loyalty programs or targeted campaigns.
 ## Files in This Repository
 
-| File                  Description |
-| `retail_analysis.py`  Main Python script |
-| `retail_report.xlsx`  Excel report with data and summaries |
-| `retail_summary.pdf`  One‑page PDF summary for management |
-| `charts/`             Folder containing all visualizations (PNG) |
-| `shopping_trends.csv` Original dataset |
+| File | Description |
+| :--- | :--- |
+| `retail_analysis.py` | Main Python script |
+| `retail_report.xlsx` | Excel report with data and summaries |
+| `retail_summary.pdf` | One‑page PDF summary for management |
+| `charts/` | Folder containing all visualizations (PNG) |
+| `shopping_trends.csv` | Original dataset |
 
 
 ## About the Data
